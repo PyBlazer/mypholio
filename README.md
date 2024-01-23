@@ -29,7 +29,7 @@ To run this portfolio locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   git clone https://github.com/PyBlazer/mypholio.git
 
 2. Navigate to the project directory:
 
